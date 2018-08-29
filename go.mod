@@ -1,1 +1,1 @@
-module github.com/yesq/testpkg
+module github.com/yesq/testpkg/v2
